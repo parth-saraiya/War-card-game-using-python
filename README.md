@@ -1,3 +1,5 @@
+## NOTE:- Download HTML file to view the project!!
+
 # War-card-game-using-python
 Background
 
